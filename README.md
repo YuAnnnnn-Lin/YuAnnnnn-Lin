@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuAnnnnn-Lin
 - 👀 I’m interested in Java, Python and MATLAB coding
 - 🌱 I got my bachelor degree of Communication Engineering in Southern University of Science and Technology, Shenzhen, China
--     I am currently pursuing my master degree in the Hong Kong Polytechnic University
+- 🌱 I am currently pursuing my master degree in the Hong Kong Polytechnic University
 - 📫 You can reach me by email. My email adress: hilyadesu@gmail.com
